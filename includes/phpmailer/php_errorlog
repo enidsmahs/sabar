@@ -1,0 +1,2 @@
+[02-Jul-2019 23:44:02 CST6CDT] PHP Fatal error:  Class 'PHPMailer' not found in /home/kodelive/html.kodesolution.live/f/edupoints/v3/demo/includes/phpmailer/class.phpmaileroauth.php on line 26
+[02-Jul-2019 23:44:04 CST6CDT] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/local/php71/pear') in /home/kodelive/html.kodesolution.live/f/edupoints/v3/demo/includes/phpmailer/get_oauth_token.php on line 18

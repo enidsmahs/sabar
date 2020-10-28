@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2a67904-6b62-4bc3-b432-f4e8e8c17825" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ikZplviHoaPO7uiFWzuVzDdlNF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/student" />
+      <recent name="$PROJECT_DIR$/connection" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$/pages_includes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="DatabaseScript" />
+      </set>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2a67904-6b62-4bc3-b432-f4e8e8c17825" name="Default Changelist" comment="" />
+      <created>1602453736236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602453736236</updated>
+      <workItem from="1602453737368" duration="1906000" />
+      <workItem from="1602618928630" duration="147000" />
+      <workItem from="1602713993017" duration="3112000" />
+      <workItem from="1602758903622" duration="3908000" />
+      <workItem from="1602771872327" duration="980000" />
+      <workItem from="1602808063138" duration="53000" />
+      <workItem from="1602808406204" duration="2972000" />
+      <workItem from="1602862562818" duration="2767000" />
+      <workItem from="1602881937682" duration="3054000" />
+      <workItem from="1602936411813" duration="76000" />
+      <workItem from="1603132973295" duration="1679000" />
+      <workItem from="1603196089224" duration="2432000" />
+      <workItem from="1603200224682" duration="4862000" />
+      <workItem from="1603723548839" duration="233000" />
+      <workItem from="1603723924496" duration="6516000" />
+      <workItem from="1603748052070" duration="191000" />
+      <workItem from="1603748453860" duration="253000" />
+      <workItem from="1603748814448" duration="3260000" />
+      <workItem from="1603767775888" duration="23000" />
+      <workItem from="1603804540244" duration="3957000" />
+      <workItem from="1603885965831" duration="3537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="268" y="355" key="#SQL_Dialects" timestamp="1603730263432">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="268" y="355" key="#SQL_Dialects/0.23.1920.988@0.23.1920.988" timestamp="1603730263432" />
+    <state x="560" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603730655742">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="560" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.988@0.23.1920.988" timestamp="1603730655742" />
+    <state x="748" y="201" key="#com.intellij.ide.util.MemberChooser" timestamp="1603889714987">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="748" y="201" key="#com.intellij.ide.util.MemberChooser/0.23.1920.988@0.23.1920.988" timestamp="1603889714987" />
+    <state x="697" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603887393312">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="697" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.988@0.23.1920.988" timestamp="1603887393312" />
+    <state x="567" y="201" width="787" height="631" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1603205684573">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="567" y="201" width="787" height="631" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1920.988@0.23.1920.988" timestamp="1603205684573" />
+    <state x="648" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603748493789">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="648" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.988@0.23.1920.988" timestamp="1603748493789" />
+    <state width="1294" height="267" key="GridCell.Tab.0.bottom" timestamp="1603731347477">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1294" height="267" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1603731347477" />
+    <state width="1294" height="267" key="GridCell.Tab.0.center" timestamp="1603731347476">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1294" height="267" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1603731347476" />
+    <state width="1294" height="267" key="GridCell.Tab.0.left" timestamp="1603731347476">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1294" height="267" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1603731347476" />
+    <state width="1294" height="267" key="GridCell.Tab.0.right" timestamp="1603731347476">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1294" height="267" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1603731347476" />
+    <state x="685" y="259" key="NewPhpClassDialog" timestamp="1603889346871">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="685" y="259" key="NewPhpClassDialog/0.23.1920.988@0.23.1920.988" timestamp="1603889346871" />
+    <state x="762" y="451" key="NewPhpFileDialog" timestamp="1603727117433">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="762" y="451" key="NewPhpFileDialog/0.23.1920.988@0.23.1920.988" timestamp="1603727117433" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1603888782905">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.23.1920.988@0.23.1920.988" timestamp="1603888782905" />
+    <state x="690" y="439" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603805681246">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="690" y="439" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.988@0.23.1920.988" timestamp="1603805681246" />
+  </component>
+</project>
